@@ -11,5 +11,5 @@ Actuellement en formation pour un bac+2 en Dévellopemen Web et Web Mobile pour 
 
 ### 🔵 Contact
 N'hésitez pas à me contacter par e-mail 📧 : Cevik.murat@hotmail.fr
-<br>Vous pouvez également me suivre sur linkdin( : www.linkedin.com/in/murat-cevik-205925289 pour en savoir plus sur mon parcours et mes projets.
+<br>Vous pouvez également me suivre sur linkedin : www.linkedin.com/in/murat-cevik-205925289 pour en savoir plus sur mon parcours et mes projets.
 <br>Merci d'avoir visité mon profil GitHub ! Je suis impatient de partager mes futurs projets avec la communauté GitHub.
