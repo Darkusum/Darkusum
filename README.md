@@ -6,6 +6,7 @@ Bonjour, je suis Murat Cevik, un développeur web junior dynamique et passionné
 ## 📘 À propos de moi
 
 Depuis que j'ai plongé dans le monde fascinant du développement web, chaque jour est une nouvelle aventure. Actuellement, je maîtrise le HTML et le CSS, et je me forme activement en JavaScript pour donner vie à des pages web interactives. Mon chemin d'apprentissage est en constante progression, alimenté par ma soif de connaissances et mon désir d'exceller dans ce domaine.
+Geek dans mes heures perdues (Destiny 2, Starcraft 2, Starfield...).
 
 ## 🎯 Objectifs professionnels
 
@@ -17,7 +18,7 @@ En poursuivant un bac+2 en Développement Web et Web Mobile, je suis pleinement 
 
 Je serais ravi d'échanger avec vous, que ce soit pour discuter de projets passionnants ou pour établir des connexions professionnelles. N'hésitez pas à me joindre :
 
-- 📧 Email : [Cevik.murat@hotmail.fr](mailto:Cevik.murat@hotmail.fr)
-- 🌐 LinkedIn : [Murat Cevik](www.linkedin.com/in/murat-cevik-205925289)
+- ![cover] Email : [Cevik.murat@hotmail.fr](mailto:Cevik.murat@hotmail.fr)
+- ![cover](https://github.com/Darkusum/Darkusum/blob/main/icons8-linkedin-20.png) LinkedIn : [Murat Cevik](www.linkedin.com/in/murat-cevik-205925289)
 
 Merci de visiter mon profil GitHub ! Je suis impatient de partager mes futurs projets avec la communauté et de collaborer avec d'autres passionnés comme moi.
