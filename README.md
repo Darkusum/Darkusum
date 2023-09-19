@@ -6,7 +6,7 @@ Bonjour, je suis Murat Cevik, un développeur web junior dynamique et passionné
 ## 📘 À propos de moi
 
 Depuis que j'ai plongé dans le monde fascinant du développement web, chaque jour est une nouvelle aventure. Actuellement, je maîtrise le HTML et le CSS, et je me forme activement en JavaScript pour donner vie à des pages web interactives. Mon chemin d'apprentissage est en constante progression, alimenté par ma soif de connaissances et mon désir d'exceller dans ce domaine.
-<br>![cover](https://github.com/Darkusum/Darkusum/blob/main/icons8-ps-controller-20.png) Geek dans mes heures perdues (Destiny 2, Starcraft 2, Starfield...).
+<br>![cover](https://github.com/Darkusum/Darkusum/blob/main/icons8-ps-controller-20.png) Geek à mes heures perdues (Destiny 2, Starcraft 2, Starfield...).
 
 ## 🎯 Objectifs professionnels
 
