@@ -19,6 +19,6 @@ Mon animal totem est le chat ![cover](https://github.com/Darkusum/Darkusum/blob/
 Je serais ravi d'échanger avec vous, que ce soit pour discuter de projets passionnants ou pour établir des connexions professionnelles. N'hésitez pas à me joindre :
 
 - ![cover](https://github.com/Darkusum/Darkusum/blob/main/icons8-mail-20.png) Email : [Cevik.murat@hotmail.fr](mailto:Cevik.murat@hotmail.fr)
-- ![cover](https://github.com/Darkusum/Darkusum/blob/main/icons8-linkedin-20.png) LinkedIn : [Murat Cevik](https://www.linkedin.com/in/murat-cevik-205925289/)
+ LinkedIn : [Murat Cevik](https://www.linkedin.com/in/murat-cevik-205925289/)
 
 Merci de visiter mon profil GitHub ! Je suis impatient de partager mes futurs projets avec la communauté et de collaborer avec d'autres passionnés comme moi.
